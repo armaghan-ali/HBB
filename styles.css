@@ -1,0 +1,55 @@
+.logo{
+    padding-left: 15%;
+    display: flex;
+    align-items: center;
+}
+
+.nav{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 20%;
+}
+header {
+    width: 100%;
+display: flex;
+justify-content: space-between;
+}
+li {
+    padding: 10px;
+    margin: 5px;
+    padding-right: 20px;
+    text-decoration: none;
+    color: aliceblue;
+    background-color: rgba(247, 248, 249, 0.26);
+    border-radius: 15px;
+ }
+   .btn{
+    text-decoration: none;
+    background-color:rgb(252,64,66);
+    border: 5px;
+    height: 50px;
+    width: 100px;
+    margin-right: 5%;
+  text-decoration: rgb(248, 249, 249);
+}
+a {
+    text-decoration: none;
+}
+.headline {
+    display: flex;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+.intro{
+    width: 40%;
+}
+.red-intro{
+    color: rgba(236, 42, 42, 0.92) ;
+}
+.image-area {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
